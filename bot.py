@@ -46,7 +46,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 from matplotlib.patches import Patch, Rectangle
 
 # ----------------------------- CONFIG ---------------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8250718066:AAEaYBUF7ONYaesmtFoJyn55nklUdlUNXE4")
 
 MOVE_PCT = 1.0        # entry ke baad kam se kam itna % move (target)
 LOOKAHEAD = 30        # entry ke baad itne candles me target aana chahiye
